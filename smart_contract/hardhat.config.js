@@ -5,9 +5,8 @@ require("@nomiclabs/hardhat-waffle");
 require("@nomiclabs/hardhat-ethers");
 const API_URL =
   "https://eth-goerli.g.alchemy.com/v2/bcGOdgNfml25ePBUXuSVl7NXrQ8e5JNC";
-const PRIVATE_KEY =
-  "15c399e216c66e0d26c1b13724eeece4ece25f098b4be3bd38ee81e5a5e85190";
-const PUBLIC_KEY = "0x6618b3AE18dEdf0cD6176E18314dF6f9BB2Cc78D";
+const PRIVATE_KEY = "YOUR PIVATE KEY HERE";
+const PUBLIC_KEY = "YOUR PUBLIC KEY HERE";
 
 module.exports = {
   solidity: "0.8.0",
